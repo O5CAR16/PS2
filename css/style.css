@@ -88,7 +88,7 @@
     text-align: center;
 }
 #container .container-right{
-    background-image: url(images/3firstsectionimage.jpg);
+    background-image: url(/images/3firstsectionimage.jpg);
     background-size: cover;
     padding: 20% 10% 0% 5%;
 }
@@ -149,7 +149,7 @@
     margin-top: 5px;
 }
 #container-3{
-    background-image: url(images/8secondsectionimage.jpg);
+    background-image: url(/images/8secondsectionimage.jpg);
     height: 400px;
     width: 100%;
     background-size: cover;
@@ -235,7 +235,7 @@
     cursor: pointer;
 }
 #container-6{
-    background-image: url(images/extrapagebackground.jpg);
+    background-image: url(/images/extrapagebackground.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
